@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>October</title>
-  <icon>https://www.gravatar.com/avatar/69d0536c3ae61a065b073b82f2192236</icon>
-  <subtitle>十月想找一个牛皮的小哥哥 啊哈</subtitle>
+  <icon>https://www.gravatar.com/avatar/9ea1fd5fbb4d8f66a0f74fa3d6237cf1</icon>
+  <subtitle>下次你路过，人间已无我</subtitle>
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://octoberfirst.github.io/"/>
@@ -11,7 +11,7 @@
   
   <author>
     <name>October</name>
-    <email>1246895262@qq.com</email>
+    <email>1164369103@qq.com</email>
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
